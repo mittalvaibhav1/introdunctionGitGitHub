@@ -1,3 +1,2 @@
-# introdunctionGitGitHub
-This is just a demo repository
-I am editing the README file. Adding some more details about the project description.
+# Git and github
+This repository was created as a part of the git and github course from google on coursera.
